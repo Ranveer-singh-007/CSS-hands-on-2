@@ -42,3 +42,7 @@
 <a style="background-color: yellow;" href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi34t3cvM7-AhXbTCsKHZD5Ae4YABAAGgJzZg&ohost=www.google.com&cid=CAASJeRovrEnqe3S8IwFUyZL2-Oj2fHLtXljkmZ7QLeAcKJnHTORG4I&sig=AOD64_1GQf597Env8GMWVMyYQZqEElcrOg&q&adurl&ved=2ahUKEwibmdfcvM7-AhU3TmwGHemNA1gQ0Qx6BAgEEAE">Prepbytes</a>
 </body>
 </html>
+#style part
+.one{
+    color: chocolate;
+}
